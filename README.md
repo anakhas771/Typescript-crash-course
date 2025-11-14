@@ -4,7 +4,6 @@ Welcome to the **TypeScript Crash Course** — a clean, beginner-friendly, and p
 
 This repository contains short explanations, code samples, exercises, and notes covering every essential TS concept.
 
-
 ## 📌 What You Will Learn
 
 - ⚡ TypeScript Basics  
